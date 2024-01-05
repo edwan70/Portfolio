@@ -7,7 +7,7 @@
 #### loans_table1_202312280212.csv
 `Тестовые датасеты.`
 #### sber_test.ipynb
-`Решение тестового задания в Jupyter notrbook.`
+`Решение тестового задания в Jupyter notebook.`
 #### Script-1.sql
 #### Script-3.sql
 `Скрипты загрузки данных и решения.`
