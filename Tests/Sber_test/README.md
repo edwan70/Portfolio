@@ -1,6 +1,6 @@
 ## Portpholio - Tests - Sber_test
 
-#### Test_sber.docx
+#### test.md
 `Тестовое задание от Сбер.`
 #### clients_table1_202312280211.csv
 #### contacts1_202312280211.csv
