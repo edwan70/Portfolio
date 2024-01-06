@@ -1,4 +1,4 @@
-## Portpholio - Pet-projects
+## Portfolio - Pet-projects
 
 ## Скрипты SQL, примеры анализа и образцы дашбордов.
 #### Анализ_Минилинк.ipynb
