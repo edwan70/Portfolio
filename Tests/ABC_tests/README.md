@@ -1,4 +1,4 @@
-## Portpholio - Tests - ABC-tests
+## Portfolio - Tests - ABC-tests
 
 ## Тестовые задания, скрипты SQL, примеры анализа и образцы дашбордов.
 #### ABC-test.ipynb
