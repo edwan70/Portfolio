@@ -1,5 +1,5 @@
 ## Portfolio - Karpov_Courses_sim_da
-
+![alt Karpov Courses - симулятор аналитика.](https://optim.tildacdn.com/tild6361-3334-4131-a637-626639616637/-/resize/471x/-/format/webp/Group_485685.png)
 ## Задания, даги Airflow и дашборды на курсе Симулятор Аналитика данных.
 #### AA_test.ipynb
 `Блокнот задания по АА-тесту.`
