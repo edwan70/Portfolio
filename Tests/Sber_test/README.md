@@ -11,6 +11,6 @@
 #### [Script-1.sql](https://github.com/edwan70/Portfolio/blob/master/Tests/Sber_test/Script-1.sql)
 #### [Script-3.sql](https://github.com/edwan70/Portfolio/blob/master/Tests/Sber_test/Script-3.sql)
 `Скрипты загрузки данных и решения.`
-#### user_dogovora_2020.csv
-#### users.csv
+#### [user_dogovora_2020.csv](https://github.com/edwan70/Portfolio/blob/master/Tests/Sber_test/user_dogovora_2020.csv)
+#### [users.csv](https://github.com/edwan70/Portfolio/blob/master/Tests/Sber_test/users.csv)
 `Итоговые датасеты.`
