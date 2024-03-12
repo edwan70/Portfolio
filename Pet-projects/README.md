@@ -14,7 +14,7 @@
 `Построение графиков и диаграмм по параметрам двух промышленных радио-релейных линий.
 Цель - определить проблемные каналы.`
 ## Вывод отчета по текущим значениям уровня сигнала радио-релейных линий.
-#### [run_script_RRL_Gelen_Ozer.cmd(https://github.com/edwan70/Portfolio/blob/master/Pet-projects/run_script_RRL_Gelen_Ozer.cmd)  
+#### [run_script_RRL_Gelen_Ozer.cmd](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/run_script_RRL_Gelen_Ozer.cmd)  
 `Сценарий для запуска запроса из БД Microsoft SQL параметров уровня сигнала двух РРЛ.`  
 #### [script_RRL_Gelen_Ozer.sql](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/script_RRL_Gelen_Ozer.sql)
 `Запрос из БД Microsoft SQL параметров уровня сигнала двух РРЛ.`  
