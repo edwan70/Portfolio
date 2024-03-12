@@ -1,5 +1,5 @@
 ## Portfolio - Karpov_Courses_sim_da
-### Karpov Courses - симулятор аналитика.
+### [Karpov Courses - симулятор аналитика.](https://karpov.courses/simulator)
 ![alt Karpov Courses - симулятор аналитика.](https://github.com/edwan70/Datasets/blob/main/karpov_courses.png?raw=true)
 ## Задания, даги Airflow и дашборды на курсе Симулятор Аналитика данных.
 #### AA_test.ipynb
