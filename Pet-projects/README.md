@@ -7,7 +7,7 @@
 `Ссылки на дашборды в Ядндекс DataLens.`
 
 ## Дашборды Grafana.
-#### [dashboard_link.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/dashboard_grafana.md)
+#### [dashboard_grafana.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/dashboard_grafana.md)
 `Дашборды в Grafana.`
 
 ## Анализ параметров радио-релейных линий для определения проблемных каналов.
