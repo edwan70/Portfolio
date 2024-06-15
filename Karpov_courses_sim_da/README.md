@@ -13,7 +13,7 @@
 #### [otchet_app_dag.py](https://github.com/edwan70/Portfolio/blob/master/Karpov_courses_sim_da/otchet_app_dag.py)
 `Даг для формирования отчета по работе приложения и отправки сообщения в телеграм.`
 #### [pipeline_dag.py](https://github.com/edwan70/Portfolio/blob/master/Karpov_courses_sim_da/pipeline_dag.py)
-`Даг пайплайна для Airflow. Обрабатывает данные и пишет в звданную таблицу.`
+`Даг пайплайна для Airflow. Обрабатывает данные и пишет в заданную таблицу.`
 #### [dashboards.md](https://github.com/edwan70/Portfolio/blob/master/Karpov_courses_sim_da/dashboards.md)
 `Дашборды SuperSet.`
 
