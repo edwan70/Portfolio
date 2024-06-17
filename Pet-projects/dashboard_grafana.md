@@ -1,5 +1,5 @@
 ## Дашборды главная страница.
-![alt Главная страница](https://github.com/edwan70/Datasets/blob/main/dashboards.jpg?raw=true)
+![alt Главная страница](https://github.com/edwan70/Datasets/blob/main/dashboards_grafana.jpg?raw=true)
 
 ## Дашборд "Уровни сигнала РРЛ".
 ![alt Уровни сигнала РРЛ](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen.jpg?raw=true)
