@@ -11,7 +11,7 @@
 ![alt Уровни сигнала РРЛ - настройка запроса](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen_sql.jpg?raw=true)
 
 ## Дашборд "Уровни сигнала РРЛ" таблица текущих значений.
-![alt Уровни сигнала РРЛ таблица текущих значений.](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen_values.jpg?raw=true)
+![alt Уровни сигнала РРЛ таблица текущих значений.](https://github.com/edwan70/Datasets/blob/main/RRL_tables.jpg?raw=true)
 
 ## Дашборд "Температуры и напряжения".
 ![alt Температуры и напряжения](https://github.com/edwan70/Datasets/blob/main/Ozer_T_U.jpg?raw=true)
