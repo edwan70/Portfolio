@@ -1,3 +1,6 @@
+## Схема выгрузки данных.
+![alt Главная страница](https://github.com/edwan70/Datasets/blob/main/Technical_Diagrams.jpg?raw=true)
+
 ## Дашборды главная страница.
 ![alt Главная страница](https://github.com/edwan70/Datasets/blob/main/dashboards_grafana.jpg?raw=true)
 
