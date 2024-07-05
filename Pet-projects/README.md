@@ -7,7 +7,7 @@
 `Ссылки на дашборды в Ядндекс DataLens.`
 
 ## Проект: расширение функционала системы мониторинга (snmp manager Octopus).
-#### [dashboard_grafana.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/project_dashboards_grafana.md)
+#### [project_dashboards_grafana.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/project_dashboards_grafana.md)
 `Расширение функционала системы мониторинга (snmp manager Octopus). Дашборды в Grafana.`
 
 ## Анализ параметров радио-релейных линий для определения проблемных каналов.
