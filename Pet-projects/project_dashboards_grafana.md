@@ -20,10 +20,10 @@
 ![alt Главная страница](https://github.com/edwan70/Datasets/blob/main/dashboards_grafana.jpg?raw=true)
 
 ### Примеры дашбордов "Уровни сигнала РРЛ".
-![alt Уровни сигнала РРЛ Геленджик.](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen.jpg?raw=true)
 `Уровни сигнала РРЛ Геленджик.`
-![alt Уровни сигнала РРЛ Пенай.](https://github.com/edwan70/Datasets/blob/main/RRL_Penay.jpg?raw=true)
+![alt Уровни сигнала РРЛ Геленджик.](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen.jpg?raw=true)
 `Уровни сигнала РРЛ Пенай.`
+![alt Уровни сигнала РРЛ Пенай.](https://github.com/edwan70/Datasets/blob/main/RRL_Penay.jpg?raw=true)
 
 ### Пример дашборда "Гистограммы и мин, макс, средние значения".
 ![alt Гистограммы и мин, макс, средние значения.](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen_hist.jpg?raw=true)
@@ -41,10 +41,10 @@
 ![alt Тревоги АДГ.](https://github.com/edwan70/Datasets/blob/main/adg_alarms.jpg?raw=true)
 
 ### Примеры дашбордов "Посещение РТП, открытие дверей".
-![alt РТП Ю. Озереевка энергоконтейнер.](https://github.com/edwan70/Datasets/blob/main/door_energo_alarms.jpg?raw=true)
 `РТП Ю. Озереевка энергоконтейнер.`
-![alt РТП Геленджик радарконтейнер.](https://github.com/edwan70/Datasets/blob/main/door_alarms.jpg?raw=true)
+![alt РТП Ю. Озереевка энергоконтейнер.](https://github.com/edwan70/Datasets/blob/main/door_energo_alarms.jpg?raw=true)
 `РТП Геленджик радарконтейнер.`
+![alt РТП Геленджик радарконтейнер.](https://github.com/edwan70/Datasets/blob/main/door_alarms.jpg?raw=true)
 
 ### Пример дашборда "Температуры и напряжения".
 ![alt Температуры и напряжения.](https://github.com/edwan70/Datasets/blob/main/Ozer_T_U.jpg?raw=true)
