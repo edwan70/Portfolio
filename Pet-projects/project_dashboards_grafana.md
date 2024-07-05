@@ -21,7 +21,9 @@
 
 ### Примеры дашбордов "Уровни сигнала РРЛ".
 ![alt Уровни сигнала РРЛ Геленджик.](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen.jpg?raw=true)
+`Уровни сигнала РРЛ Геленджик.`
 ![alt Уровни сигнала РРЛ Пенай.](https://github.com/edwan70/Datasets/blob/main/RRL_Penay.jpg?raw=true)
+`Уровни сигнала РРЛ Пенай.`
 
 ### Пример дашборда "Гистограммы и мин, макс, средние значения".
 ![alt Гистограммы и мин, макс, средние значения.](https://github.com/edwan70/Datasets/blob/main/RRL_Gelen_hist.jpg?raw=true)
@@ -40,7 +42,9 @@
 
 ### Примеры дашбордов "Посещение РТП, открытие дверей".
 ![alt РТП Ю. Озереевка энергоконтейнер.](https://github.com/edwan70/Datasets/blob/main/door_energo_alarms.jpg?raw=true)
+`РТП Ю. Озереевка энергоконтейнер.`
 ![alt РТП Геленджик радарконтейнер.](https://github.com/edwan70/Datasets/blob/main/door_alarms.jpg?raw=true)
+`РТП Геленджик радарконтейнер.`
 
 ### Пример дашборда "Температуры и напряжения".
 ![alt Температуры и напряжения.](https://github.com/edwan70/Datasets/blob/main/Ozer_T_U.jpg?raw=true)
