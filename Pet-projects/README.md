@@ -6,9 +6,9 @@
 #### [dashboard_link.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/dashboard_link.md)
 `Ссылки на дашборды в Ядндекс DataLens.`
 
-## Дашборды Grafana.
-#### [dashboard_grafana.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/dashboard_grafana.md)
-`Дашборды в Grafana.`
+## Проект: расширение функционала системы мониторинга (snmp manager Octopus).
+#### [dashboard_grafana.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/project_dashboards_grafana.md)
+`Расширение функционала системы мониторинга (snmp manager Octopus). Дашборды в Grafana.`
 
 ## Анализ параметров радио-релейных линий для определения проблемных каналов.
 #### [analyze_minilink.ipynb](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/analyze_minilink.ipynb)
