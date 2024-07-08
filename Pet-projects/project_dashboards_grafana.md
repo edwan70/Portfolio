@@ -57,7 +57,10 @@
 ![alt Переключение и работа сплитсистем.](https://github.com/edwan70/Datasets/blob/main/cond_intervals.jpg?raw=true)
 
 ### Пример дашборда "Информация о БД".
+`БД SystemMonitoring.`
 ![alt Информация о БД.](https://github.com/edwan70/Datasets/blob/main/db_info.jpg?raw=true)
+`БД SRK.`
+![alt Информация о БД.](https://github.com/edwan70/Datasets/blob/main/db_info1.jpg?raw=true)
 
 ### В итоге: 
 - реализована выгрузка и преобразование данных из имеющихся источников при помощи ETL MS SSIS по инкрементальной схеме (только новые строки). Период обновления данных 1 час.
