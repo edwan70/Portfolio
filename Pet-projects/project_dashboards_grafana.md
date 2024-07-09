@@ -39,7 +39,7 @@
 `РТП Геленджик.`
 ![alt Тревоги АИС.](https://github.com/edwan70/Datasets/blob/main/ais_alarms.jpg?raw=true)
 
-### Пример дашборда "Тревоги АДГ".
+### Пример дашборда "Работа от АДГ".
 `РТП Ю. Озереевка.`
 ![alt Тревоги АДГ.](https://github.com/edwan70/Datasets/blob/main/adg_alarms.jpg?raw=true)
 
