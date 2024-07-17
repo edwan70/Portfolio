@@ -6,6 +6,14 @@
 #### [dashboard_link.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/dashboard_link.md)
 `Ссылки на дашборды в Ядндекс DataLens.`
 
+## Проект: Отчет по БД MS SQL Express.
+#### [run_files_DB_sizes.cmd](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/run_files_DB_sizes.cmd)
+`Сценарий Windows, запускающий запрос для получения информации из БД MS SQL Express.`
+#### [files_DB_sizes.sql](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/files_DB_sizes.sql)
+`Запрос SQL для получения информации по БД MS SQL Express.`
+#### [files_DB_sizes.txt](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/files_DB_sizes.txt)
+`Вывод информации по БД MS SQL Express в текстовом виде.`
+
 ## Проект: расширение функционала системы мониторинга (snmp manager Octopus).
 #### [project_dashboards_grafana.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/project_dashboards_grafana.md)
 `Расширение функционала системы мониторинга (snmp manager Octopus). Дашборды в Grafana.`
