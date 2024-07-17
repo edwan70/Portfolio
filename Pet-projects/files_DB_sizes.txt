@@ -1,0 +1,80 @@
+Сервер                   Служба                   Version                                                          
+------------------------ ------------------------ -----------------------------------------------------------------
+OCTOPUS\SQLEXPRESS_2012  SQLEXPRESS_2012          Microsoft SQL Server 2012 (SP4) (KB4018073) - 11.0.7001.0 (X64) 
+
+
+(обработано строк: 1)
+Контекст базы данных изменен на "SRK".
+Name                 Folder                                                                           Size_Mb     
+-------------------- -------------------------------------------------------------------------------- ------------
+SRK                  C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SRK.mdf         74.0
+SRK_log              C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SRK_log         21.6
+
+(обработано строк: 2)
+Контекст базы данных изменен на "SRK".
+Сервер                   file_id    type_desc  space_used_mb space_unused_mb space_allocated_mb used_space_in_percent max_size_mb         
+------------------------ ---------- ---------- ------------- --------------- ------------------ --------------------- --------------------
+OCTOPUS\SQLEXPRESS_2012  1          ROWS                73.8              .2               74.0                  99.7 -0.007812           
+OCTOPUS\SQLEXPRESS_2012  2          LOG                  4.6            17.1               21.6                  21.1 2097152.000000      
+
+(обработано строк: 2)
+Контекст базы данных изменен на "SRK".
+ServerName               ServerStarted           Время работы в днях Лет         Месяцев     Дней        Часов       Минут      
+------------------------ ----------------------- ------------------- ----------- ----------- ----------- ----------- -----------
+OCTOPUS\SQLEXPRESS_2012  2024-05-09 08:50:07.783                  69           0           2           9          13          12
+
+(обработано строк: 1)
+ServerName               DBName               Backup_finish_date      Physical_Device_name                                        
+------------------------ -------------------- ----------------------- ------------------------------------------------------------
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-17 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240717.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-16 00:00:04.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240716.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-15 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240715.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-14 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240714.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-13 00:00:05.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240713.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-12 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240712.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-11 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240711.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-10 00:00:05.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240710.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-09 00:00:03.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240709.bak        
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-07-08 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20240708.bak        
+
+(обработано строк: 10)
+Контекст базы данных изменен на "SystemMonitoring".
+Name                     Folder                                                                                               Size_Mb     
+------------------------ ---------------------------------------------------------------------------------------------------- ------------
+SystemMonitoring         C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SystemMonitoring.mdf               845.2
+SystemMonitoring_log     C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SystemMonitoring_log.LDF         28163.2
+
+(обработано строк: 2)
+Контекст базы данных изменен на "SystemMonitoring".
+Сервер                   file_id    type_desc  space_used_mb space_unused_mb space_allocated_mb used_space_in_percent max_size_mb         
+------------------------ ---------- ---------- ------------- --------------- ------------------ --------------------- --------------------
+OCTOPUS\SQLEXPRESS_2012  1          ROWS               199.6           645.6              845.2                  23.6 -0.007812           
+OCTOPUS\SQLEXPRESS_2012  2          LOG              26066.9          2096.3            28163.2                  92.6 2097152.000000      
+
+(обработано строк: 2)
+Контекст базы данных изменен на "SystemMonitoring".
+ServerName               ServerStarted           Время работы в днях Лет         Месяцев     Дней        Часов       Минут      
+------------------------ ----------------------- ------------------- ----------- ----------- ----------- ----------- -----------
+OCTOPUS\SQLEXPRESS_2012  2024-05-09 08:50:07.783                  69           0           2           9          13          12
+
+(обработано строк: 1)
+ServerName               DBName               Backup_finish_date      Physical_Device_name                                                            
+------------------------ -------------------- ----------------------- --------------------------------------------------------------------------------
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-17 00:45:04.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240717.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-16 00:45:03.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240716.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-15 00:45:03.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240715.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-14 00:45:05.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240714.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-13 00:45:04.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240713.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-12 00:45:03.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240712.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-11 00:45:04.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240711.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-10 00:45:03.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240710.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-09 00:45:03.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240709.bak        
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-07-08 00:45:04.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20240708.bak        
+
+(обработано строк: 10)
+ServerName               DBName               Backup_MIN_DateTime     Backup_MAX_DateTime     Backup_count
+------------------------ -------------------- ----------------------- ----------------------- ------------
+OCTOPUS\SQLEXPRESS_2012  SRK                  2024-06-01 00:00:01.000 2024-07-17 00:00:01.000           47
+OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     2024-06-01 00:45:02.000 2024-07-17 00:45:04.000           47
+
+(обработано строк: 2)
