@@ -6,7 +6,13 @@
 #### [dashboard_link.md](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/dashboard_link.md)
 `Ссылки на дашборды в Ядндекс DataLens.`
 
-## Проект: Отчет по БД MS SQL Express.
+## Проект: Резервное копирование БД MS SQL Express и отчет по БД.
+#### [run_script_backup_srk.cmd](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/run_script_backup_srk.cmd)
+#### [run_script_backup_monitoring.cmd](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/run_script_backup_monitoring.cmd)
+`Сценарии Windows, запускающие запросы для резервного копирования БД MS SQL Express.`
+#### [script_backup_srk.sql](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/script_backup_srk.sql)
+#### [script_backup_monitoring.sql](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/script_backup_monitoring.sql)
+`SQL запросы для резервного копирования БД MS SQL Express.`
 #### [run_files_DB_sizes.cmd](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/run_files_DB_sizes.cmd)
 `Сценарий Windows, запускающий запрос для получения информации из БД MS SQL Express.`
 #### [files_DB_sizes.sql](https://github.com/edwan70/Portfolio/blob/master/Pet-projects/files_DB_sizes.sql)
