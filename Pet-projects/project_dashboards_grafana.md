@@ -56,6 +56,10 @@
 ### Пример дашборда "Переключение и работа сплитсистем" таблица.
 ![alt Переключение и работа сплитсистем.](https://github.com/edwan70/Datasets/blob/main/cond_intervals.jpg?raw=true)
 
+### Пример дашборда "Переключение и работа сплитсистем" графики.
+![alt Переключение и работа сплитсистем.](https://github.com/edwan70/Datasets/blob/main/cond_work.jpg?raw=true)
+
+
 ### Пример дашборда "Информация о БД".
 `БД SystemMonitoring.`
 ![alt Информация о БД.](https://github.com/edwan70/Datasets/blob/main/db_info.jpg?raw=true)
