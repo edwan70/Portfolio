@@ -1,69 +1,69 @@
-Сервер                   Служба                   Version                                                          
+РЎРµСЂРІРµСЂ                   РЎР»СѓР¶Р±Р°                   Version                                                          
 ------------------------ ------------------------ -----------------------------------------------------------------
 OCTOPUS\SQLEXPRESS_2012  SQLEXPRESS_2012          Microsoft SQL Server 2012 (SP4) (KB4018073) - 11.0.7001.0 (X64) 
 
 
-(обработано строк: 1)
-ServerName               ServerStarted           Время работы в днях Лет         Месяцев     Дней        Часов       Минут      
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 1)
+ServerName               ServerStarted           Р’СЂРµРјСЏ СЂР°Р±РѕС‚С‹ РІ РґРЅСЏС… Р›РµС‚         РњРµСЃСЏС†РµРІ     Р”РЅРµР№        Р§Р°СЃРѕРІ       РњРёРЅСѓС‚      
 ------------------------ ----------------------- ------------------- ----------- ----------- ----------- ----------- -----------
 OCTOPUS\SQLEXPRESS_2012  2024-10-22 02:22:40.470                  11           0           0          11          19          20
 
-(обработано строк: 1)
-Контекст базы данных изменен на "SRK".
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 1)
+РљРѕРЅС‚РµРєСЃС‚ Р±Р°Р·С‹ РґР°РЅРЅС‹С… РёР·РјРµРЅРµРЅ РЅР° "SRK".
 Name                 Folder                                                                           Size_Mb     
 -------------------- -------------------------------------------------------------------------------- ------------
 SRK                  C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SRK.mdf         77.0
 SRK_log              C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SRK_log         21.6
 
-(обработано строк: 2)
-Сервер                   file_id    type_desc  space_used_mb space_unused_mb space_allocated_mb used_space_in_percent max_size_mb         
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 2)
+РЎРµСЂРІРµСЂ                   file_id    type_desc  space_used_mb space_unused_mb space_allocated_mb used_space_in_percent max_size_mb         
 ------------------------ ---------- ---------- ------------- --------------- ------------------ --------------------- --------------------
 OCTOPUS\SQLEXPRESS_2012  1          ROWS                76.9              .1               77.0                  99.9 -0.007812           
 OCTOPUS\SQLEXPRESS_2012  2          LOG                  4.6            17.0               21.6                  21.2 2097152.000000      
 
-(обработано строк: 2)
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 2)
 ServerName               DBName               type Backup_finish_date      Physical_Device_name                                 Backup_size_kb
 ------------------------ -------------------- ---- ----------------------- ---------------------------------------------------- --------------
 OCTOPUS\SQLEXPRESS_2012  SRK                  D    2024-11-02 00:00:02.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20241102.bak          78931
 OCTOPUS\SQLEXPRESS_2012  SRK                  D    2024-11-01 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20241101.bak          78931
 OCTOPUS\SQLEXPRESS_2012  SRK                  D    2024-10-31 00:00:01.000 C:\Backup_SRK_Monitoring\srk\SRK_backup_20241031.bak          78931
 
-(обработано строк: 3)
-Контекст базы данных изменен на "SystemMonitoring".
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 3)
+РљРѕРЅС‚РµРєСЃС‚ Р±Р°Р·С‹ РґР°РЅРЅС‹С… РёР·РјРµРЅРµРЅ РЅР° "SystemMonitoring".
 Name                     Folder                                                                                               Size_Mb     
 ------------------------ ---------------------------------------------------------------------------------------------------- ------------
 SystemMonitoring         C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SystemMonitoring.mdf               845.2
 SystemMonitoring_log     C:\Program Files\Microsoft SQL Server\MSSQL11.SQLEXPRESS_2012\MSSQL\DATA\SystemMonitoring_log.LDF          1024.6
 
-(обработано строк: 2)
-Сервер                   file_id    type_desc  space_used_mb space_unused_mb space_allocated_mb used_space_in_percent max_size_mb         
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 2)
+РЎРµСЂРІРµСЂ                   file_id    type_desc  space_used_mb space_unused_mb space_allocated_mb used_space_in_percent max_size_mb         
 ------------------------ ---------- ---------- ------------- --------------- ------------------ --------------------- --------------------
 OCTOPUS\SQLEXPRESS_2012  1          ROWS               192.1           653.1              845.2                  22.7 -0.007812           
 OCTOPUS\SQLEXPRESS_2012  2          LOG                444.3           580.2             1024.6                  43.4 2097152.000000      
 
-(обработано строк: 2)
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 2)
 ServerName               DBName               type Backup_finish_date      Physical_Device_name                                                     Backup_size_kb
 ------------------------ -------------------- ---- ----------------------- ------------------------------------------------------------------------ --------------
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     D    2024-11-02 00:45:04.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20241102.bak         196962
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     D    2024-11-01 00:45:03.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20241101.bak         196130
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     D    2024-10-31 00:45:04.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20241031.bak         195938
 
-(обработано строк: 3)
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 3)
 ServerName               DBName               type Backup_MIN_DateTime     Backup_MAX_DateTime     Backup_count
 ------------------------ -------------------- ---- ----------------------- ----------------------- ------------
 OCTOPUS\SQLEXPRESS_2012  SRK                  D    2024-08-01 00:00:01.000 2024-11-02 00:00:02.000           94
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     D    2024-08-01 00:45:04.000 2024-11-02 00:45:04.000           95
 
-(обработано строк: 2)
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 2)
 ServerName               DBName               type Backup_finish_date      Physical_Device_name                                                     Backup_size_kb
 ------------------------ -------------------- ---- ----------------------- ------------------------------------------------------------------------ --------------
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     L    2024-11-02 21:31:59.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20241102.bak         442860
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     L    2024-10-28 16:32:48.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20241028.bak       38012014
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     L    2024-10-22 02:44:19.000 C:\Backup_SRK_Monitoring\monitoring\SystemMonitoring_backup_20241022.bak       37328165
 
-(обработано строк: 3)
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 3)
 ServerName               DBName               type Backup_MIN_DateTime     Backup_MAX_DateTime     Backup_count
 ------------------------ -------------------- ---- ----------------------- ----------------------- ------------
 OCTOPUS\SQLEXPRESS_2012  SystemMonitoring     L    2024-10-01 19:39:59.000 2024-11-02 21:31:59.000            4
 
-(обработано строк: 1)
+(РѕР±СЂР°Р±РѕС‚Р°РЅРѕ СЃС‚СЂРѕРє: 1)
